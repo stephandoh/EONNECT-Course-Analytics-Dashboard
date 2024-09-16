@@ -8,7 +8,7 @@ This report provides a comprehensive analysis of EONNECT's course revenue, prici
 ## Overall Performance
 - **Total Revenue**: EONNECT generated a total revenue of **884.2 million**.
 - **Total Subscribers**: The platform has **11.7 million subscribers**.
-- **Average Price Per Course**: The average price per course sold is **66.0**.
+- **Average Price Per Course**: The average price per course sold is **$66.0**.
 
 ## Price Distribution of Courses
 - **Mid-Range Courses**: The largest segment of courses falls into the mid-range price category, with **2.6K courses**.
