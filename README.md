@@ -3,7 +3,7 @@ A comprehensive analysis and visualization project for EONNECT's course revenue,
 
 # EONNECT Course Revenue and Pricing Overview
 
-This report provides a comprehensive analysis of EONNECT's course revenue, pricing strategy, and subscriber base. Here's a breakdown of the key findings:
+This report provides a comprehensive analysis of EONNECT's course revenue, and pricing strategy. Here's a breakdown of the key findings:
 
 ## Overall Performance
 - **Total Revenue**: EONNECT generated a total revenue of **884.2 million**.
