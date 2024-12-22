@@ -65,11 +65,11 @@ This report provides a comprehensive analysis of EONNECT's subscriber base, cour
 3. **Course Level**: The data suggests that intermediate and advanced courses are popular among EONNECT's subscribers. The platform could focus on expanding its offerings in these levels.
 4. **Subscriber Engagement**: While the subscriber-to-lecture ratio provides some insights into course popularity, it's essential to track other engagement metrics, such as completion rates, course ratings, and student feedback. This information can help EONNECT identify areas for improvement and tailor its content to better meet the needs of its subscribers.
 
-
-
 # Page 3: EONNECT Review Analysis and Course Feedback
 
 This report provides a comprehensive analysis of EONNECT's course reviews, feedback, and overall user satisfaction. Here's a breakdown of the key findings:
+
+<img width="775" alt="image" src="https://github.com/user-attachments/assets/e658fa88-9573-48b8-84da-8dbeefa55892" />
 
 ## Overall Performance
 - **Total Number of Reviews**: EONNECT has received **574.6K reviews**.
