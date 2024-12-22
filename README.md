@@ -40,6 +40,8 @@ This report provides a comprehensive analysis of EONNECT's course revenue, and p
 
 This report provides a comprehensive analysis of EONNECT's subscriber base, course engagement, and content performance. Here's a breakdown of the key findings:
 
+<img width="804" alt="image" src="https://github.com/user-attachments/assets/7238031c-0e42-43a3-93eb-9c71bc4c6e14" />
+
 ## Overall Performance
 - **Total Number of Lectures**: There are **147.3K** total lectures available on the platform.
 - **Average Content Duration**: The average duration of content is **15.0K** (assuming this is in seconds).
