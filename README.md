@@ -105,6 +105,8 @@ The scatter plot indicates a **positive correlation** between the number of subs
 
 This report provides a comprehensive analysis of EONNECT's course content, duration, and level distribution. Here's a breakdown of the key findings:
 
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/5036f220-275c-40c3-8bf6-b032438fe8bc" />
+
 ## Overall Performance
 - **Average Number of Lectures per Course**: The average number of lectures per course is **40.1**.
 - **Average Course Duration**: The average course duration is **4.1 hours**.
@@ -134,6 +136,13 @@ This report provides a comprehensive analysis of EONNECT's course content, durat
 3. **Subject Focus**: **Web development** is the most popular subject among EONNECT's subscribers. The platform could explore opportunities to further expand its offerings in this area and potentially introduce new subjects to cater to a wider audience.
 
 4. **Content Duration**: The distribution of content duration across different levels and subjects suggests that EONNECT offers a variety of course lengths to meet the needs of different learners. The platform could continue to refine its content strategy to ensure that courses are appropriately structured and paced.
+
+Link to reports here below
+
+https://lookerstudio.google.com/s/vEUmedPFCkg
+https://lookerstudio.google.com/s/oh-eh8R0Azo
+https://lookerstudio.google.com/s/iX1DP0XL5D0
+https://lookerstudio.google.com/s/uOXQr5B38ZE
 
 
 
