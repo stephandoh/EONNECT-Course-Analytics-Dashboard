@@ -1,6 +1,8 @@
 # Page 1: EONNECT-Course-Analytics-Dashboard
 A comprehensive analysis and visualization project for EONNECT's course revenue, pricing strategy, subscriber base, and engagement. The project leverages data insights to optimize content strategy and pricing, while enhancing user engagement and satisfaction.
 
+<img width="806" alt="image" src="https://github.com/user-attachments/assets/09666874-f747-40bf-b6c2-c649a7964191" />
+
 # EONNECT Course Revenue and Pricing Overview
 
 This report provides a comprehensive analysis of EONNECT's course revenue, and pricing strategy. Here's a breakdown of the key findings:
